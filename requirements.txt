@@ -1,2 +1,5 @@
-streamlir
-pandas
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.2
+python-dateutil==2.8.2
+Pillow==10.1.0
